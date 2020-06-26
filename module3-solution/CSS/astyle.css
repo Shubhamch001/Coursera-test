@@ -1,0 +1,43 @@
+.container-fluid  {
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar{
+	background-image: linear-gradient(-90deg, #5ff5fa,#fffb12);
+}
+
+#nav-list a{
+    color: black;
+}
+
+
+
+.Menu{
+	text-align: center;
+	padding: 25px 50px 25px 70px;
+    text-shadow: 2px;
+    color:#fc0303;
+}
+
+ 
+h5{
+	text-align: center;
+}
+.box1{
+	background-color:#a9ff94;
+}
+
+.box2{
+	background-color:  #ffd0b0;
+}
+
+.box3{
+	background-color:#efa4fc;
+}
+
